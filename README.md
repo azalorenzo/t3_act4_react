@@ -1,4 +1,4 @@
-# Introducción a React - Diseño de componentes - React + Vite
+# Act4. Introducción a React - Fundamentos y Primer Componente
 
 Esta práctica fue desarrollada con el propósito de integrar y demostrar los conceptos fundamentales solicitados para el manejo de componentes e interactividad en React:
 
