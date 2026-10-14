@@ -1,0 +1,47 @@
+.contenedor {
+  background: #202d3d;
+  padding: 15px;
+  border-radius: 8px;
+}
+
+.contenedor h3 {
+  color: #e9b44c;
+}
+
+.textoVacio {
+  color: #aaa;
+  font-style: italic;
+  margin-top: 10px;
+}
+
+.lista {
+  padding-left: 0;
+  margin-top: 10px;
+  list-style: none;
+}
+
+.elementoLista {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 8px;
+  padding: 8px 12px;
+  background: #2a2a2a;
+  border-radius: 4px;
+}
+
+.itemTexto {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.iconoBasura {
+  color: #dc3545;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+
+.iconoBasura:hover {
+  transform: scale(1.1);
+}

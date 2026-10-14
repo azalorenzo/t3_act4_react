@@ -1,0 +1,12 @@
+.tarjetaUsuario {
+  background: #202d3d;
+  padding: 15px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  border-left: 4px solid orange;
+}
+
+.titulo {
+  margin-bottom: 8px;
+  color: #e9b44c;
+}

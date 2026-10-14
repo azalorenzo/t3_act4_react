@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #101c2c;
+  color: #fff;
+  font-family: system-ui;
+  height: 100vh;
+  padding: 0 15px;
+  font-size: 18px;
+}
